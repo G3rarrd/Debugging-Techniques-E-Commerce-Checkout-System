@@ -117,10 +117,10 @@ self.cart
 
 Example pdb session:
 ## Debugging session without bug
-![PDB Debugging session without bug](readme_assets/pdb_without_bug.png)
+![PDB Debugging session without bug](https://github.com/G3rarrd/Debugging-Techniques-E-Commerce-Checkout-System/blob/main/readme_assests/pdb_without_bug.png)
 
 ## Debugging session with bug
-![PDB Debugging session with bug](readme_assets/pdb_with_bug.png)
+![PDB Debugging session with bug](https://github.com/G3rarrd/Debugging-Techniques-E-Commerce-Checkout-System/blob/main/readme_assests/pdb_with_bug.png)
 
 # Project Structure
 
@@ -153,7 +153,7 @@ Debugging_Techniques/
 ## Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/G3rarrd/Debugging-Techniques-E-Commerce-Checkout-System
 ```
 
 ---
